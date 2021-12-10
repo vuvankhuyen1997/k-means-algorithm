@@ -1,5 +1,5 @@
 # k-means-algorithm
-An application which can express clearly about KMeans algorithm by using Pygame.
+An application which can demonstrate clearly about KMeans algorithm by using Pygame.
 
 REQUIREMENT:
   This application needs Python3 to run.
